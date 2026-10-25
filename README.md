@@ -4,7 +4,7 @@ A student marketplace and community platform where campus peers can buy, sell, l
 
 # Working Link
 
-[CampusLoop}(https://campus-loop-dun.vercel.app/)
+[CampusLoop](https://campus-loop-dun.vercel.app/)
 
 ## Tech Stack
 
